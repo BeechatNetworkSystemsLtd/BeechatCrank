@@ -4,7 +4,7 @@
 ![BNSLTD](https://beechat.network/wp-content/uploads/2021/02/powered-by-1.png)
 
 OpenCrank is a human-powered, open-hardware, fully-waterproof, electricity generator.
-The project was born out of the need to power electronics in all off-grid scenarios. We needed a way to power our devices in all weather conditions, and making a human-powered meant that problem could be solved. When we looked for a solution, we didn't find what we were looking for, so we decided to make it, and make it open source!
+The project was born out of the need to power electronics in all off-grid scenarios. We needed a way to power our devices in all weather conditions, and making a human-powered generator meant that problem could be solved. When we looked for a solution, we didn't find what we were looking for, so we decided to make it, and make it open source!
 
 ## Features
 
