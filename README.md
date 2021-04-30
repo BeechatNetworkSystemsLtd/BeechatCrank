@@ -110,6 +110,5 @@ Make a change in the files and create a pull request!
 
 ## License
 
-MIT
 
-**Open Hardware, Hell Yeah!**
+**Open Hardware, Non-Commercial**
