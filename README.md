@@ -1,4 +1,4 @@
-# OpenCrank
+# Beechat Crank
 ## _The last charger you'll ever need_
 
 ![BNSLTD](https://beechat.network/wp-content/uploads/2021/02/powered-by-1.png)
