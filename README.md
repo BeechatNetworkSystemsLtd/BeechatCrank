@@ -3,7 +3,7 @@
 
 ![BNSLTD](https://beechat.network/wp-content/uploads/2021/02/powered-by-1.png)
 
-OpenCrank is a human-powered, open-hardware, fully-waterproof, electricity generator.
+Beechat Crank is a human-powered, open-hardware, fully-waterproof, electricity generator.
 The project was born out of the need to power electronics in all off-grid scenarios. We needed a way to power our devices in all weather conditions, and making a human-powered generator meant that problem could be solved. When we looked for a solution, we didn't find what we were looking for, so we decided to make it, and make it open source!
 
 ## Features
@@ -17,7 +17,7 @@ The project was born out of the need to power electronics in all off-grid scenar
 
 ## Parts
 
-1. OpenCrank is composed of the main device, which we call the _Heart_. It contains the battery, the generator and all the electronics (the handle is detachable) :
+1. Beechat Crank is composed of the main device, which we call the _Heart_. It contains the battery, the generator and all the electronics (the handle is detachable) :
 ![Heart](https://beechat.network/wp-content/uploads/2021/04/Crank_1.png)
 
 2. The _Pedal Case_ is an assembly which the _Heart_ can be attached in. which dramatically speeds up the charging from 2.5 hours to 25-30 minutes. This is achieved with reduction gears to, with the same revolutions per minute, generate more electricity.
