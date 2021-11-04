@@ -9,7 +9,7 @@ The project was born out of the need to power electronics in all off-grid scenar
 ## Features
 
 - High power (3A) USB-C IPX8 output
-- 18650 battery 
+- 18650 3600 mAh battery (LG M36)
 - Charging time of 4 hrs 24 min. to full charge with 10% efficiency loss at 4.5 Watts.
 - Overcharge protection
 
