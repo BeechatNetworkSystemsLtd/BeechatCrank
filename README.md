@@ -24,6 +24,10 @@ The project was born out of the need to power electronics in all off-grid scenar
 ![Heart](https://beechat.network/wp-content/uploads/2021/04/Pedal_1.png)
 
 
+## _Generator_ part
+We have chosen the 35L048B1B motor with a mass of 88 grams, giving us us 450 mA for each phase of the coil and works at 5V. 
+The wire leads are connected via female Molex connectors to the charging PCB board.
+
 
 
 ## _Heart_ parts
@@ -50,28 +54,7 @@ The project was born out of the need to power electronics in all off-grid scenar
 
 ## _Heart_ PCB parts
 
-
-| Part no. | Part name | Value | Device | Package | 
-| ------ | ------ | ------ | ------ | ------ | 
-| T1 | PNP Transistor |  | [MMBT3906](https://lcsc.com/product-detail/Transistors-NPN-PNP_Shikues-MMBT3906_C111114.html) | SOT23-BEC
-| C2, C3, C5, C6, C7, C8, C9, C10, C11 |  CAP CER 22uF 0805 | 22uF |  [CL21A226MPQNNNE](https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL21A226MPQNNNE_C29277.html) | C0805
-| D1, D2, D3, D4 | LED |  | [ORH-W46G](https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Orient-ORH-W46G_C205448.html) | CHIPLED_0603
-| D5, D6, D7, D8, D9, D10, D11, D12 | Diode |  | [1N5819W](https://lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_Shandong-Jingdao-Microelectronics-1N5819W_C169540.html) | SODFL3718X115
-| R4 | RES SMD 100 OHM 1/10W 0603 | 100 | [RS-03K101JT](https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FH-Guangdong-Fenghua-Advanced-Tech-RS-03K101JT_C86983.html) | RES_0603
-| C14 | Aluminium Electrolytic Capacitors | 100 µF | [CS1C101M-CRE54](https://lcsc.com/product-detail/Aluminum-Electrolytic-Capacitors-SMD_ST-Semtech-CS1C101M-CRE54_C97805.html) | WCAP-ASNP_6.3X5.5
-| R3 | RES SMD 100K OHM 1/10W 0603 | 100k | [0603WAJ0104T5E](https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0603WAJ0104T5E_C15458.html) | RES_0603 
-| R2, R5, R6, R7, R8 | RES SMD 10K OHM 1/10W 0603 | 10k | [0603WAJ0103T5E](https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0603WAJ0103T5E_C15401.html) | RES_0603
-| L1 |  SMD Power Inductor | 15uH | [MJC-0603T-1R0-M](https://lcsc.com/product-detail/Power-Inductors_Me-TECH-MJC-0603T-1R0-M_C501709.html) | WE-LHMI_7050 
-| R1 | RES SMD 1K OHM  1/10W 0603 | 1k | [WR06X1001FTL](https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Walsin-Tech-Corp-WR06X1001FTL_C112433.html) | RES_0603
-| C1 | CAP CER 1nF 0603 | 1nF | [0603B102K160CT](https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Walsin-Tech-Corp-0603B102K160CT_C163169.html) | CAP_0603
-| C4 | CAP CER 1nF 0603 | 1uF | [CL10A105KO8NNNC](https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL10A105KO8NNNC_C1592.html) | CAP_0603
-| J1 | TYPE C Right Angle Sealable SMT IPX8 3.1 GEN 2 Wire to Board USB |  | [2305018-2](https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/2305018-2/8680920) | TE_2305018-2
-| C12, C13 | CAP CER 4.7uF 10V  0603 | 4.7uF | [CL10A475KP8NNNC](https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL10A475KP8NNNC_C1705.html) | CAP_0603
-| D13, D14 | Zener Diode | 5.6v | [MMSZ5V6CW](https://lcsc.com/product-detail/Zener-Diodes_Tak-Cheong-MMSZ5V6CW_C248743.html) | SODFL3718X115
-| U2 | M6 Washer |  | [IP3005](https://lcsc.com/product-detail/Battery-Protection-ICs_INJOINIC-IP3005A_C181685.html) | HSOP8
-| U1 | IP5310 |  | [IP5310](https://lcsc.com/product-detail/PMIC-Battery-Management_INJOINIC-IP5310_C191176.html) | VQFN_32
-| Q1, Q2 | P-Channel MOSFET - Generic |  | [NCE2333Y](https://lcsc.com/product-detail/MOSFET_Wuxi-NCE-Power-Semiconductor-NCE2333Y_C192664.html) | SOT23
-
+All parts are under the "3_BOM and CPL" folder
 
 
 
@@ -111,4 +94,4 @@ Make a change in the files and create a pull request!
 ## License
 
 
-**Open Hardware, Non-Commercial**
+**Open Source Hardware, Non-Commercial**
