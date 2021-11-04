@@ -10,9 +10,7 @@ The project was born out of the need to power electronics in all off-grid scenar
 
 - High power (3A) USB-C IPX8 output
 - 18650 battery 
-- Charging times:
-    - 2-3 hours to charge by hand
-    - 25-35 minutes with the pedal assembly
+- Charging time of 4 hrs 24 min. to full charge with 10% efficiency loss at 4.5 Watts.
 - Overcharge protection
 
 ## Parts
